@@ -1,4 +1,5 @@
 Hi, I’m Roberto @RLAlfaro and I like learning about computer science and data science.
+
 I’m currently uploading and translating most of my work from spanish to english, about Data Science and a lot of little stuff.
 
 <!---
